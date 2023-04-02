@@ -1,1 +1,3 @@
-# erlang_c
+# Erlang-C in Python
+
+ Documentation en route...
